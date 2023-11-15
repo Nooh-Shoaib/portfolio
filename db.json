@@ -15,13 +15,21 @@
   ],
   "products": [
     {
-      "id": "small-pillow-boxes",
-      "body": "some comment"
-    },
-    {
-      "slug": "small-pillow-boxes2",
-      "id": 2,
-      "body": "some comment"
+      "slug": "small-pillow-boxes",
+      "id": 1,
+      "productTitle": "Small Pillow Boxes",
+      "description": "Get Custom Pillow Boxes with Window and Grant your Products a Glassy & Alluring look Window Pillows are a great comfort source, and sireprinting.com has increased this comfort by providing custom window pillow boxes to our clients. These Window Pillow Boxes are manufactured in different designs, shapes, sizes, materials, and customized cuts. Sireprinting.com specializes in producing these Custom Window Pillow Boxes as gift boxes. After all, unique things come in special packing. Order your Custom Kraft Paper Window Pillow Boxes and carry them around anywhere without extra packing. Come up with free shipments across the world. Pillow boxes with windows are flawless to show off the products stylishly. They are used by many companies to make their products better from rest. Not only that, they quickly enhance the value of products set inside. Sireprinting.com is an expert in manufacturing pillow boxes with windows in custom designs, shapes, sizes & layouts. At sireprinting.com, our state of the art automation lets us offer you error-free Window Pillow Boxes at your disposal. Our specially designed pillow boxes with windows are a perfect layout tool. They provide a glance of products wrapped inside to the viewer. They build a strong visual relationship with customers that ends in confirmation purchase. We offered you these window boxes at wholesale prices. You can order any amount regardless if the short-run or wholesale; we carry out all. Our professional designers will help you in designing amazing pillow boxes with windows. They give you recommendations from concept to the manufacturing of your boxes to increase their value.",
+      "productImages": [{
+        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window-Pillow-Boxes-SIrePrinting-3.png-gallery1"
+      }],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      },{
+        "name": "Box Style",
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+      }]
     }
   ],
   "profile": {
