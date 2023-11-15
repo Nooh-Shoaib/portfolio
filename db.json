@@ -1,5 +1,5 @@
 {
-  "portfolio": [{
+  "portfolio": [
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697936552-cardnoard-mailer-boxes-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697935989-2-piece-box-with-window-lid-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697935548-cream-boxes-with-foil-accent-sire-printing.avif",
@@ -28,7 +28,7 @@
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697048211-kraft-die-cut-soap-boxes-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047754-die-cut-kraft-pet-soap-boxes-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif"
-    }],
+    ],
   "blogs": [{
     "title": "",
     "date": "",
