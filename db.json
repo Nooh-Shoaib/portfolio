@@ -17,19 +17,7 @@
     {
       "slug": "small-pillow-boxes",
       "id": 1,
-      "productTitle": "Small Pillow Boxes",
-      "description": "Get Custom Pilasdklhjaskldhajksdhasjkddhlow",
-      "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window-Pillow-Boxes-SIrePrinting-3.png-gallery1"
-      ],
-      "specifications": [{
-        "name": "Box Style",
-        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
-      },{
-        "name": "Box Style",
-        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
-      }]
+      "productTitle": "Small Pillow Boxes"      
     }
   ],
   "profile": {
