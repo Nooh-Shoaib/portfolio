@@ -62,24 +62,57 @@
         "slug": "window-pillow-boxes",
         "productTitle": "Window Pillow Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      }]
+      }],
+       "relatedPortfolio": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      ],
+       "relatedBlogs": [{
+        "slug": "window-pillow-boxes",
+        "blogTitle": "Window Pillow Boxes",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "window-pillow-boxes",
+        "blogTitle": "Window Pillow Boxes",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      }],
     },
     {
-      "slug": "kraft-cereal-boxes",
-      "id": "kraft-cereal-boxes",
-      "productTitle": "Custom Window Pillow Boxes1",
+      "slug": "small-pillow-boxes2",
+      "id": "small-pillow-boxes",
+      "productTitle": "Small Pillow Boxes",
       "description": "Get Custom Pilasdklhjaskldhajksdhasjkddhlow",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-03.png-gallery2"
+        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window-Pillow-Boxes-SIrePrinting-3.png-gallery1"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "All styles available including Seal End, Gable Style, Pop Display Style"
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Box Style",
         "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
-      }]
+      }],
+      "relatedProducts": [{
+        "slug": "window-pillow-boxes",
+        "productTitle": "Window Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "window-pillow-boxes",
+        "productTitle": "Window Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      }],
+       "relatedPortfolio": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      ],
+       "relatedBlogs": [{
+        "slug": "window-pillow-boxes",
+        "blogTitle": "Window Pillow Boxes",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "window-pillow-boxes",
+        "blogTitle": "Window Pillow Boxes",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      }],
     }
   ]
 }
