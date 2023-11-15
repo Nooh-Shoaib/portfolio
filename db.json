@@ -27,9 +27,16 @@
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697048265-kraft-soap-boxes-with-round-window-sire-printing.avif ",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697048211-kraft-die-cut-soap-boxes-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047754-die-cut-kraft-pet-soap-boxes-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif",
+    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif"
   ],
- 
+  "blogs": [{
+    "title": "",
+    "date": "",
+    "description": "",
+    "slug": "",
+    "image": "",
+    "blogCategory": ""
+  }],
   "products": [
     {
       "slug": "small-pillow-boxes",
