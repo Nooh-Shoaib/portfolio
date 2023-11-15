@@ -19,7 +19,8 @@
       "body": "some comment"
     },
     {
-      "id": "small-pillow-boxes2",
+      "slug": "small-pillow-boxes2",
+      "id": 2,
       "body": "some comment"
     }
   ],
