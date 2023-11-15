@@ -75,31 +75,6 @@
         "blogTitle": "Window Pillow Boxes",
         "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
       }],
-    },
-    {
-      "slug": "small-pillow-boxes2",
-      "id": "small-pillow-boxes",
-      "productTitle": "Small Pillow Boxes",
-      "description": "Get Custom Pilasdklhjaskldhajksdhasjkddhlow",
-      "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window-Pillow-Boxes-SIrePrinting-3.png-gallery1"
-      ],
-      "specifications": [{
-        "name": "Box Style",
-        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
-      },{
-        "name": "Box Style",
-        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
-      }],
-      "relatedProducts": [{
-        "slug": "window-pillow-boxes",
-        "productTitle": "Window Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      },{
-        "slug": "window-pillow-boxes",
-        "productTitle": "Window Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      }]
+    }
   ]
 }
