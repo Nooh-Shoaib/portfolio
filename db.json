@@ -135,7 +135,34 @@
         "https://s3.amazonaws.com/sireprinting.com/products/1666202023Custom-Printed-Kraft-Cereal-Boxes-01.png-gallery1",
         "https://s3.amazonaws.com/sireprinting.com/products/1666202024Custom-Printed-Kraft-Cereal-Boxes-04.png-gallery2"
       ],
-     
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Seal End, Gable Style, Pop Display Style"
+      },{
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      },{
+        "name": "Included Options",
+        "detail": "Spot UV, Hot Foil Stamping, Raised Ink, Embossing"
+      },{
+        "name": "Additional Options",
+        "detail": "Spot UV, Hot Foil Stamping, Raised Ink, Embossing"
+      },{
+        "name": "Proof",
+        "detail": "Flat View, 3D Mock-up, Physical Sampling (Paid Request)"
+      },{
+        "name": "Shipping",
+        "detail": "Shipped via DHL, FedEx & UPS"
+      },{
+        "name": "Preferred Design File",
+        "detail": "You can send us your design files in any vector base format like AI, PDF, JPG or TIFF format."
+      },{
+        "name": "Assembling",
+        "detail": "Eco-friendly assembling, shipped flat."
+      }],
       "relatedProducts": [{
         "slug": "window-pillow-boxes",
         "productTitle": "Window Pillow Boxes",
