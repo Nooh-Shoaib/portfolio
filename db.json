@@ -43,15 +43,42 @@
       "id": "small-pillow-boxes",
       "productTitle": "Small Pillow Boxes",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window-Pillow-Boxes-SIrePrinting-3.png-gallery1"
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing-01.png-gallery1",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing-02.png-gallery2",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing-03.png-gallery3",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879803small-pillow-boxes-sire-printing-04.png-gallery4",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879804small-pillow-boxes-sire-printing-07.png-gallery7",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879804small-pillow-boxes-sire-printing-08.png-gallery8",
+        "https://s3.amazonaws.com/sireprinting.com/products/1632879804small-pillow-boxes-sire-printing-09.png-gallery9"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        "detail": "All Styles Available"
       },{
-        "name": "Box Style",
-        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      },{
+        "name": "Included Options",
+        "detail": "Gloss/Matte Lamination, Die Cutting, Pre-Scored, Pre-Glued"
+      },{
+        "name": "Additional Options",
+        "detail": "Spot UV, Hot Foil Stamping, Raised Ink, Embossing"
+      },{
+        "name": "Proof",
+        "detail": "Flat View, 3D Mock-up, Physical Sampling (Paid Request)"
+      },{
+        "name": "Shipping",
+        "detail": "Shipped via DHL, FedEx & UPS"
+      },{
+        "name": "Preferred Design File",
+        "detail": "You can send us your design files in any vector base format like AI, PDF, PSD, EPS, JPG or TIFF format."
+      },{
+        "name": "Assembling",
+        "detail": "Pre-Scored, Pre-Glued, & Shipping Flat"
       }],
       "relatedProducts": [{
         "slug": "window-pillow-boxes",
@@ -76,9 +103,9 @@
       }]
     },
     {
-      "slug": "small-pillow-boxes2",
-      "id": "small-pillow-boxes",
-      "productTitle": "Small Pillow Boxes",
+      "slug": "kraft-cereal-boxes",
+      "id": "kraft-cereal-boxes",
+      "productTitle": "kraft-cereal-boxes",
       "description": "",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png",
