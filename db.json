@@ -113,6 +113,9 @@
         "productTitle": "Handle Pillow Box Style",
         "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600716610/Handle%20Pillow%20Box.jpg"
       }],
+       "relatedPortfolio": [
+        ""
+      ],
        "relatedBlogs": [{
         "slug": "",
         "blogTitle": "",
@@ -149,7 +152,7 @@
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
       }],
        "relatedPortfolio": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        ""
       ],
        "relatedBlogs": [{
         "slug": "window-pillow-boxes",
