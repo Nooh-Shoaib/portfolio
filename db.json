@@ -101,6 +101,52 @@
         "blogTitle": "Window Pillow Boxes",
         "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
       }]
+    },{
+      "slug": "incense-boxes",
+      "id": "incense-boxes",
+      "productTitle": "Custom Incense Box Packaging",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%20003.png-gallery2",
+        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Sleeves Packaging, Seal End, Sleeve & Tray Style, Magnetic Closure Tuck Top Style"
+      },{
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      },{
+        "name": "Assembling",
+        "detail": "Pre-Scored, Pre-Glued, & Shipping Flat"
+      }],
+      "relatedProducts": [{
+        "slug": "clear-stickers",
+        "productTitle": "Clear Stickers",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
+      },{
+        "slug": "cbd-stickers",
+        "productTitle": "CBD Stickers",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png"
+      },{
+        "slug": "custom-vape-boxes",
+        "productTitle": "Custom Vape Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png"
+      }],
+      
+       "relatedBlogs": [{
+        "slug": "window-pillow-boxes",
+        "blogTitle": "Window Pillow Boxes",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "window-pillow-boxes",
+        "blogTitle": "Window Pillow Boxes",
+        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      }]
     }
   ]
 }
