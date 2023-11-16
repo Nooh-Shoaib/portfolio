@@ -85,21 +85,45 @@
         "productTitle": "Window Pillow Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
       },{
-        "slug": "window-pillow-boxes",
-        "productTitle": "Window Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "Holographic Pillow Boxes",
+        "productTitle": "Holographic Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1663453152Holographic-Pillow-Boxes-SirePrinting-04.png"
+      },{
+        "slug": "Black Pillow Boxes",
+        "productTitle": "Black Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1663452826Black-Pillow-Boxes-SirePrinting05.png"
+      },{
+        "slug": "Pillow Gift Boxes",
+        "productTitle": "Pillow Gift Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600204336/pillow-gift-boxes.png"
+      },{
+        "slug": "Clear Pillow Boxes",
+        "productTitle": "Clear Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1654377311Clear%20Pillow%20Boxes%20Sire%20Printing%2006.png"
+      },{
+        "slug": "Kraft Pillow Boxes",
+        "productTitle": "Kraft Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1654375989Kraft%20Pillow%20Boxes%20Sire%20Printing%2003.png"
+      },{
+        "slug": "Pillow Box Mailers",
+        "productTitle": "Pillow Box Mailers",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601929467/Pillow%20Box%20Mailers.png"
+      },{
+        "slug": "Handle Pillow Box Style",
+        "productTitle": "Handle Pillow Box Style",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600716610/Handle%20Pillow%20Box.jpg"
       }],
        "relatedPortfolio": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        ""
       ],
        "relatedBlogs": [{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       },{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       }]
     },
     {
