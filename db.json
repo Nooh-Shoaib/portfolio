@@ -148,7 +148,10 @@
         "productTitle": "Window Pillow Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
       }],
-      
+       "relatedPortfolio": [
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif",
+        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697934925-bath-bomb-boxes-with-heart-shape-window-sire-printing.avif"
+      ],
        "relatedBlogs": [{
         "slug": "window-pillow-boxes",
         "blogTitle": "Window Pillow Boxes",
