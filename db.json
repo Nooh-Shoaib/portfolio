@@ -122,69 +122,7 @@
         "blogTitle": "",
         "blogImage": ""
       }]
-    },
-    {
-      "slug": "kraft-cereal-boxes",
-      "id": "kraft-cereal-boxes",
-      "productTitle": "kraft-cereal-boxes",
-      "description": "",
-      "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-02.png-gallery1",
-        "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-03.png-gallery2",
-        "https://s3.amazonaws.com/sireprinting.com/products/1666202023Custom-Printed-Kraft-Cereal-Boxes-01.png-gallery1",
-        "https://s3.amazonaws.com/sireprinting.com/products/1666202024Custom-Printed-Kraft-Cereal-Boxes-04.png-gallery2"
-      ],
-      "specifications": [{
-        "name": "Box Style",
-        "detail": "All styles available including Seal End, Gable Style, Pop Display Style"
-      },{
-        "name": "Dimensions",
-        "detail": "Custom Sizes Available"
-      },{
-        "name": "Quantity",
-        "detail": "50"
-      },{
-        "name": "Included Options",
-        "detail": "Spot UV, Hot Foil Stamping, Raised Ink, Embossing"
-      },{
-        "name": "Additional Options",
-        "detail": "Spot UV, Hot Foil Stamping, Raised Ink, Embossing"
-      },{
-        "name": "Proof",
-        "detail": "Flat View, 3D Mock-up, Physical Sampling (Paid Request)"
-      },{
-        "name": "Shipping",
-        "detail": "Shipped via DHL, FedEx & UPS"
-      },{
-        "name": "Preferred Design File",
-        "detail": "You can send us your design files in any vector base format like AI, PDF, JPG or TIFF format."
-      },{
-        "name": "Assembling",
-        "detail": "Eco-friendly assembling, shipped flat."
-      }],
-      "relatedProducts": [{
-        "slug": "window-pillow-boxes",
-        "productTitle": "Window Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      },{
-        "slug": "window-pillow-boxes",
-        "productTitle": "Window Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      }],
-       "relatedPortfolio": [
-        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697047665-bath-bomb-gift-boxes-sire-printing.avif",
-        "https://s3.amazonaws.com/sireprinting.com/portfolios/1697934925-bath-bomb-boxes-with-heart-shape-window-sire-printing.avif"
-      ],
-       "relatedBlogs": [{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      },{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      }]
     }
+  
   ]
 }
