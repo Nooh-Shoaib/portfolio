@@ -3,19 +3,8 @@
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697936552-cardnoard-mailer-boxes-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697935989-2-piece-box-with-window-lid-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697935548-cream-boxes-with-foil-accent-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697934925-bath-bomb-boxes-with-heart-shape-window-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697924122-white-soap-boxes-die-cut-sire-printing.avif",
-    "https://s3.amazonaws.com/sireprinting.com/portfolios/1697659374-vape-pen-boxes-sire-printing.avif",
     "https://s3.amazonaws.com/sireprinting.com/portfolios/1697658536-vape-cartridge-packaging-sire-printing.avif"
     ],
-  "blogs": [{
-    "title": "",
-    "date": "",
-    "description": "",
-    "slug": "",
-    "image": "",
-    "blogCategory": ""
-  }],
   "products": [
     {
       "slug": "small-pillow-boxes",
@@ -79,16 +68,38 @@
         "slug": "crepe-cone-holders",
         "productTitle": "Crepe Cone Holders",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632941376Paperboard-Crepe-Cones-Sire-Printing-02.png"
-      }],
-      
-       "relatedBlogs": [{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+      }]
+    },{
+      "slug": "incense-boxes",
+      "id": "incense-boxes",
+      "productTitle": "Custom Incense Box Packaging",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "All styles available including Sleeves Packaging, Seal End, Sleeve & Tray Style"
       },{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "name": "Dimensions",
+        "detail": "Custom Sizes Available"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "bath-bomb-boxes",
+        "productTitle": "Bath Bomb Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "kraft-pillow-boxes",
+        "productTitle": "Kraft Pillow Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1654375989Kraft%20Pillow%20Boxes%20Sire%20Printing%2003.png"
+      },{
+        "slug": "seal-end-style-boxes",
+        "productTitle": "Seal End Style Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600723551/Seal%20End%20Boxes.jpg"
       }]
     },{
       "slug": "incense-boxes",
@@ -121,58 +132,6 @@
         "slug": "custom-vape-boxes",
         "productTitle": "Custom Vape Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png"
-      }],
-      
-       "relatedBlogs": [{
-        "slug": "",
-        "blogTitle": "",
-        "blogImage": ""
-      },{
-        "slug": "",
-        "blogTitle": "",
-        "blogImage": ""
-      }]
-    },{
-      "slug": "incense-boxes",
-      "id": "incense-boxes",
-      "productTitle": "Custom Incense Box Packaging",
-      "description": "",
-      "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
-      ],
-      "specifications": [{
-        "name": "Box Style",
-        "detail": "All styles available including Sleeves Packaging, Seal End, Sleeve & Tray Style, Magnetic Closure Tuck Top Style"
-      },{
-        "name": "Dimensions",
-        "detail": "Custom Sizes Available"
-      },{
-        "name": "Quantity",
-        "detail": "50"
-      }],
-      "relatedProducts": [{
-        "slug": "clear-stickers",
-        "productTitle": "Clear Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
-      },{
-        "slug": "cbd-stickers",
-        "productTitle": "CBD Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png"
-      },{
-        "slug": "custom-vape-boxes",
-        "productTitle": "Custom Vape Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png"
-      }],
-      
-       "relatedBlogs": [{
-        "slug": "",
-        "blogTitle": "",
-        "blogImage": ""
-      },{
-        "slug": "",
-        "blogTitle": "",
-        "blogImage": ""
       }]
     },{
       "slug": "incense-boxes",
