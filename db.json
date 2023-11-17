@@ -34,18 +34,11 @@
       },{
         "name": "Quantity",
         "detail": "50"
-      },{
-        "name": "Assembling",
-        "detail": "Pre-Scored, Pre-Glued, & Shipping Flat"
       }],
       "relatedProducts": [{
         "slug": "window-pillow-boxes",
         "productTitle": "Window Pillow Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
-      },{
-        "slug": "holographic-pillow-boxes",
-        "productTitle": "Holographic Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1663453152Holographic-Pillow-Boxes-SirePrinting-04.png"
       },{
         "slug": "black-pillow-boxes",
         "productTitle": "Black Pillow Boxes",
@@ -62,7 +55,6 @@
       "description": "",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-05.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1666201862Custom-Printed-Kraft-Cereal-Boxes-02.png-gallery1",
         "https://s3.amazonaws.com/sireprinting.com/products/1666202023Custom-Printed-Kraft-Cereal-Boxes-01.png-gallery1"
       ],
       "specifications": [{
@@ -74,9 +66,6 @@
       },{
         "name": "Quantity",
         "detail": "50"
-      },{
-        "name": "Assembling",
-        "detail": "Eco-friendly assembling, shipped flat."
       }],
       "relatedProducts": [{
         "slug": "cereal-boxes",
@@ -108,7 +97,6 @@
       "description": "",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%20003.png-gallery2",
         "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
       ],
       "specifications": [{
@@ -120,9 +108,6 @@
       },{
         "name": "Quantity",
         "detail": "50"
-      },{
-        "name": "Assembling",
-        "detail": "Pre-Scored, Pre-Glued, & Shipping Flat"
       }],
       "relatedProducts": [{
         "slug": "clear-stickers",
@@ -139,13 +124,13 @@
       }],
       
        "relatedBlogs": [{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       },{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       }]
     },{
       "slug": "incense-boxes",
@@ -154,7 +139,6 @@
       "description": "",
       "productImages": [
         "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%20003.png-gallery2",
         "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
       ],
       "specifications": [{
@@ -166,9 +150,6 @@
       },{
         "name": "Quantity",
         "detail": "50"
-      },{
-        "name": "Assembling",
-        "detail": "Pre-Scored, Pre-Glued, & Shipping Flat"
       }],
       "relatedProducts": [{
         "slug": "clear-stickers",
@@ -185,13 +166,13 @@
       }],
       
        "relatedBlogs": [{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       },{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       }]
     },{
       "slug": "incense-boxes",
@@ -199,7 +180,6 @@
       "productTitle": "Custom Incense Box Packaging",
       "description": "",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
         "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%20003.png-gallery2",
         "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
       ],
@@ -212,32 +192,21 @@
       },{
         "name": "Quantity",
         "detail": "50"
-      },{
-        "name": "Assembling",
-        "detail": "Pre-Scored, Pre-Glued, & Shipping Flat"
       }],
       "relatedProducts": [{
         "slug": "clear-stickers",
         "productTitle": "Clear Stickers",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
-      },{
-        "slug": "cbd-stickers",
-        "productTitle": "CBD Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png"
-      },{
-        "slug": "custom-vape-boxes",
-        "productTitle": "Custom Vape Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png"
       }],
       
        "relatedBlogs": [{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       },{
-        "slug": "window-pillow-boxes",
-        "blogTitle": "Window Pillow Boxes",
-        "blogImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
+        "slug": "",
+        "blogTitle": "",
+        "blogImage": ""
       }]
     }
   ]
