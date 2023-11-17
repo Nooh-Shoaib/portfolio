@@ -102,17 +102,17 @@
         "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600723551/Seal%20End%20Boxes.jpg"
       }]
     },{
-      "slug": "incense-boxes",
-      "id": "incense-boxes",
-      "productTitle": "Custom Incense Box Packaging",
+      "slug": "kraft-window-boxes",
+      "id": "kraft-window-boxes",
+      "productTitle": "Kraft Boxes with Window",
       "description": "",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586049Incense%20Boxes%20Sire%20Printing%2002.png",
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
+        "https://s3.amazonaws.com/sireprinting.com/products/1664588402Kraft%20Window%20Boxes%20SIre%20Printing%20001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1664588403Kraft%20Window%20Boxes%20Sire%20Printing%2002.png-gallery2"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "All styles available including Sleeves Packaging, Seal End, Sleeve & Tray Style, Magnetic Closure Tuck Top Style"
+        "detail": "All styles available including Reverse Tuck, Sleeve & Tray, Gable Style, Pop Display Style, Seal End, Bakery Style."
       },{
         "name": "Dimensions",
         "detail": "Custom Sizes Available"
@@ -121,30 +121,30 @@
         "detail": "50"
       }],
       "relatedProducts": [{
-        "slug": "clear-stickers",
-        "productTitle": "Clear Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
+        "slug": "kraft-rigid-boxes",
+        "productTitle": "Kraft Rigid Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601679264/Kraft%20Rigid%20Boxes.png"
       },{
-        "slug": "cbd-stickers",
-        "productTitle": "CBD Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627778089CBD-Stickers-SirePrinting-01.png"
+        "slug": "kraft-sleeve-boxes",
+        "productTitle": "Kraft Sleeve Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601334928/Kraft%20Sleeve%20Boxes.png"
       },{
-        "slug": "custom-vape-boxes",
-        "productTitle": "Custom Vape Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1627779934Custom-Vape-Boxes-SirePrinting%2001.png"
+        "slug": "custom-food-boxes",
+        "productTitle": "Custom Food Boxes",
+        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313141/custom%20food%20boxes.png"
       }]
     },{
-      "slug": "incense-boxes",
-      "id": "incense-boxes",
-      "productTitle": "Custom Incense Box Packaging",
+      "slug": "cardboard-box-with-handles",
+      "id": "cardboard-box-with-handles",
+      "productTitle": "Cardboard Box with Handles",
       "description": "",
       "productImages": [
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%20003.png-gallery2",
-        "https://s3.amazonaws.com/sireprinting.com/products/1664586050Incense%20Boxes%20Sire%20Printing%2004.png-gallery4"
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
       ],
       "specifications": [{
         "name": "Box Style",
-        "detail": "All styles available including Sleeves Packaging, Seal End, Sleeve & Tray Style, Magnetic Closure Tuck Top Style"
+        "detail": "One Piece Mailer Box Style"
       },{
         "name": "Dimensions",
         "detail": "Custom Sizes Available"
@@ -153,11 +153,14 @@
         "detail": "50"
       }],
       "relatedProducts": [{
-        "slug": "clear-stickers",
-        "productTitle": "Clear Stickers",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632937304Clear%20Stickers%20SirePrinting%2001.png"
+        "slug": "small-mailer-boxes",
+        "productTitle": "Small Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "one-piece-mailer-boxes",
+        "productTitle": "One Piece Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
       }],
-      
        "relatedBlogs": [{
         "slug": "",
         "blogTitle": "",
