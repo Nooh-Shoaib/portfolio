@@ -29,10 +29,6 @@
         "productTitle": "Window Pillow Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632878721Window%20Pillow%20Boxes%20Sire%20Printing%2001.png"
       },{
-        "slug": "black-pillow-boxes",
-        "productTitle": "Black Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1663452826Black-Pillow-Boxes-SirePrinting05.png"
-      },{
         "slug": "handle-pillow-box-style",
         "productTitle": "Handle Pillow Box Style",
         "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600716610/Handle%20Pillow%20Box.jpg"
@@ -60,10 +56,6 @@
         "slug": "cereal-boxes",
         "productTitle": "Cereal Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1645126269Cereal-Boxes-Sire-Printing-01.png"
-      },{
-        "slug": "cookie-boxes",
-        "productTitle": "Cookie Boxes",
-        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1606778914/cookie%20boxes.png"
       },{
         "slug": "crepe-cone-holders",
         "productTitle": "Crepe Cone Holders",
@@ -93,10 +85,6 @@
         "productTitle": "Bath Bomb Boxes",
         "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1632874083Bath%20Bomb%20Boxes%20Sire%20Printing%2001.png"
       },{
-        "slug": "kraft-pillow-boxes",
-        "productTitle": "Kraft Pillow Boxes",
-        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1654375989Kraft%20Pillow%20Boxes%20Sire%20Printing%2003.png"
-      },{
         "slug": "seal-end-style-boxes",
         "productTitle": "Seal End Style Boxes",
         "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1600723551/Seal%20End%20Boxes.jpg"
@@ -125,10 +113,6 @@
         "productTitle": "Kraft Rigid Boxes",
         "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601679264/Kraft%20Rigid%20Boxes.png"
       },{
-        "slug": "kraft-sleeve-boxes",
-        "productTitle": "Kraft Sleeve Boxes",
-        "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1601334928/Kraft%20Sleeve%20Boxes.png"
-      },{
         "slug": "custom-food-boxes",
         "productTitle": "Custom Food Boxes",
         "productImage": "https://res.cloudinary.com/sireprinting/image/upload/v1612313141/custom%20food%20boxes.png"
@@ -145,9 +129,6 @@
       "specifications": [{
         "name": "Box Style",
         "detail": "One Piece Mailer Box  Style"
-      },{
-        "name": "Dimensions",
-        "detail": "Custom Sizes Available"
       },{
         "name": "Quantity",
         "detail": "50"
@@ -169,6 +150,56 @@
         "slug": "",
         "blogTitle": "",
         "blogImage": ""
+      }]
+    },{
+      "slug": "cardboard-box-with-handles",
+      "id": "cardboard-box-with-handles",
+      "productTitle": "Cardboard Box with Handles",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "One Piece Mailer Box  Style"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "small-mailer-boxes",
+        "productTitle": "Small Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "one-piece-mailer-boxes",
+        "productTitle": "One Piece Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
+      }]
+    },{
+      "slug": "cardboard-box-with-handles",
+      "id": "cardboard-box-with-handles",
+      "productTitle": "Cardboard Box with Handles",
+      "description": "",
+      "productImages": [
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622319Mailer-Boxes-with-Handle-Sire%20Printing%2001.png",
+        "https://s3.amazonaws.com/sireprinting.com/products/1665622320Mailer-Boxes-with-Handle-Sire%20Printing%2003.png-gallery2"
+      ],
+      "specifications": [{
+        "name": "Box Style",
+        "detail": "One Piece Mailer Box  Style"
+      },{
+        "name": "Quantity",
+        "detail": "50"
+      }],
+      "relatedProducts": [{
+        "slug": "small-mailer-boxes",
+        "productTitle": "Small Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1640140622Small%20Mailer%20Boxes%20Sire%20Printing%2001.png"
+      },{
+        "slug": "one-piece-mailer-boxes",
+        "productTitle": "One Piece Mailer Boxes",
+        "productImage": "https://s3.amazonaws.com/sireprinting.com/products/1697921214-one-piece-mailer-boxes-sire-printing-4.avif"
       }]
     }
   ]
